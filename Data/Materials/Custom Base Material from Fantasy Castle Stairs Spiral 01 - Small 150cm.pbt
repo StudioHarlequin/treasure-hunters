@@ -2,7 +2,7 @@
   Id: 14206352462832496325
   Name: "Custom Base Material from Fantasy Castle Stairs Spiral 01 - Small 150cm"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 9755522775318772386
     ParameterOverrides {

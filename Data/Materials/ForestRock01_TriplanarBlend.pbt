@@ -2,7 +2,7 @@
   Id: 15098773902469598179
   Name: "ForestRock01_TriplanarBlend"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 172173763757739114
     ParameterOverrides {

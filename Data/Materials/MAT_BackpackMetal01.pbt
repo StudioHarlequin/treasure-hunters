@@ -2,7 +2,7 @@
   Id: 15699756827928171230
   Name: "MAT_BackpackMetal01"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 5961184720642333683
     ParameterOverrides {

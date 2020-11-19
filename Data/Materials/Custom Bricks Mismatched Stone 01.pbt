@@ -2,7 +2,7 @@
   Id: 12012791186600581230
   Name: "MAT_HutStoneBase02"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 17637426230975770916
     ParameterOverrides {

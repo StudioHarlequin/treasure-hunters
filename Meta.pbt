@@ -1,5 +1,5 @@
-﻿GameId: "A47FB8FC46EB0A33E632C489C52BD74B"
-DisplayName: "DnDContest_Harlequin01"
-GameSerializationVersion: 62
+﻿GameId: "AC6DF3094B5AED565BA51896BE25117D"
+DisplayName: "Treasure_Hunters"
+GameSerializationVersion: 65
 Framework: "D&D Game Jam Contest"
 StorageVersion: 1

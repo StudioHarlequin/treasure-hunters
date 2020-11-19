@@ -2,7 +2,7 @@
   Id: 289909171978987881
   Name: "Angelic Toga Advanced"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 10874324117450691185
     ParameterOverrides {

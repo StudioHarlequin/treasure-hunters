@@ -1,7 +1,7 @@
 ﻿Name: "RuneGlyphs_2"
-RootId: 18359203024976580014
+RootId: 8963628845716230841
 Objects {
-  Id: 12090124370030519709
+  Id: 1866158198941297075
   Name: "Decal Elven Symbols"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 0.467270076
     }
   }
-  ParentId: 18359203024976580014
+  ParentId: 8963628845716230841
   UnregisteredParameters {
     Overrides {
       Name: "bp:Shape Index"
@@ -52,9 +52,15 @@ Objects {
     DecalBP {
     }
   }
+  InstanceHistory {
+    SelfId: 1866158198941297075
+    SubobjectId: 2808013669748154156
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
+  }
 }
 Objects {
-  Id: 3421640862857311713
+  Id: 10777025980831515099
   Name: "Decal Elven Symbols"
   Transform {
     Location {
@@ -71,7 +77,7 @@ Objects {
       Z: 0.335291713
     }
   }
-  ParentId: 18359203024976580014
+  ParentId: 8963628845716230841
   UnregisteredParameters {
     Overrides {
       Name: "bp:Shape Index"
@@ -105,9 +111,15 @@ Objects {
     DecalBP {
     }
   }
+  InstanceHistory {
+    SelfId: 10777025980831515099
+    SubobjectId: 12290971507782186820
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
+  }
 }
 Objects {
-  Id: 9597240276881175677
+  Id: 16597870440748018019
   Name: "Decal Elven Symbols"
   Transform {
     Location {
@@ -124,7 +136,7 @@ Objects {
       Z: 0.412950665
     }
   }
-  ParentId: 18359203024976580014
+  ParentId: 8963628845716230841
   UnregisteredParameters {
     Overrides {
       Name: "bp:Shape Index"
@@ -158,9 +170,15 @@ Objects {
     DecalBP {
     }
   }
+  InstanceHistory {
+    SelfId: 16597870440748018019
+    SubobjectId: 15657474709106089980
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
+  }
 }
 Objects {
-  Id: 11098804449972779814
+  Id: 6036082229371230272
   Name: "Decal Elven Symbols"
   Transform {
     Location {
@@ -177,7 +195,7 @@ Objects {
       Z: 0.44301948
     }
   }
-  ParentId: 18359203024976580014
+  ParentId: 8963628845716230841
   UnregisteredParameters {
     Overrides {
       Name: "bp:Shape Index"
@@ -211,9 +229,15 @@ Objects {
     DecalBP {
     }
   }
+  InstanceHistory {
+    SelfId: 6036082229371230272
+    SubobjectId: 7843447277668265695
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
+  }
 }
 Objects {
-  Id: 16702559994755942756
+  Id: 1622200913674435306
   Name: "Decal Elven Symbols"
   Transform {
     Location {
@@ -230,7 +254,7 @@ Objects {
       Z: 0.584781468
     }
   }
-  ParentId: 18359203024976580014
+  ParentId: 8963628845716230841
   UnregisteredParameters {
     Overrides {
       Name: "bp:Shape Index"
@@ -264,9 +288,15 @@ Objects {
     DecalBP {
     }
   }
+  InstanceHistory {
+    SelfId: 1622200913674435306
+    SubobjectId: 2999056857000266869
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
+  }
 }
 Objects {
-  Id: 15304373018664091336
+  Id: 1511304901044956716
   Name: "Decal Elven Symbols"
   Transform {
     Location {
@@ -283,7 +313,7 @@ Objects {
       Z: 0.584781468
     }
   }
-  ParentId: 18359203024976580014
+  ParentId: 8963628845716230841
   UnregisteredParameters {
     Overrides {
       Name: "bp:Shape Index"
@@ -317,9 +347,15 @@ Objects {
     DecalBP {
     }
   }
+  InstanceHistory {
+    SelfId: 1511304901044956716
+    SubobjectId: 3162871350641875123
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
+  }
 }
 Objects {
-  Id: 3087155800016653194
+  Id: 3656863892017666887
   Name: "Decal Elven Symbols"
   Transform {
     Location {
@@ -336,7 +372,7 @@ Objects {
       Z: 0.584781468
     }
   }
-  ParentId: 18359203024976580014
+  ParentId: 8963628845716230841
   UnregisteredParameters {
     Overrides {
       Name: "bp:Shape Index"
@@ -370,9 +406,15 @@ Objects {
     DecalBP {
     }
   }
+  InstanceHistory {
+    SelfId: 3656863892017666887
+    SubobjectId: 982408301729410520
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
+  }
 }
 Objects {
-  Id: 2193625911428065218
+  Id: 12339829857216254089
   Name: "Decal Elven Symbols"
   Transform {
     Location {
@@ -389,7 +431,7 @@ Objects {
       Z: 0.584781468
     }
   }
-  ParentId: 18359203024976580014
+  ParentId: 8963628845716230841
   UnregisteredParameters {
     Overrides {
       Name: "bp:Shape Index"
@@ -423,9 +465,15 @@ Objects {
     DecalBP {
     }
   }
+  InstanceHistory {
+    SelfId: 12339829857216254089
+    SubobjectId: 10674125474834277910
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
+  }
 }
 Objects {
-  Id: 55991153565615129
+  Id: 7555616095037832649
   Name: "Decal Elven Symbols"
   Transform {
     Location {
@@ -440,7 +488,7 @@ Objects {
       Z: 0.820059955
     }
   }
-  ParentId: 18359203024976580014
+  ParentId: 8963628845716230841
   UnregisteredParameters {
     Overrides {
       Name: "bp:Shape Index"
@@ -474,9 +522,15 @@ Objects {
     DecalBP {
     }
   }
+  InstanceHistory {
+    SelfId: 7555616095037832649
+    SubobjectId: 6325039311773731670
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
+  }
 }
 Objects {
-  Id: 17610150546770670078
+  Id: 1875428872652309710
   Name: "Decal Elven Symbols"
   Transform {
     Location {
@@ -492,7 +546,7 @@ Objects {
       Z: 0.820059955
     }
   }
-  ParentId: 18359203024976580014
+  ParentId: 8963628845716230841
   UnregisteredParameters {
     Overrides {
       Name: "bp:Shape Index"
@@ -526,9 +580,15 @@ Objects {
     DecalBP {
     }
   }
+  InstanceHistory {
+    SelfId: 1875428872652309710
+    SubobjectId: 2673768114300154449
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
+  }
 }
 Objects {
-  Id: 2575211047239163286
+  Id: 15013194600320547972
   Name: "Decal Elven Symbols"
   Transform {
     Location {
@@ -544,7 +604,7 @@ Objects {
       Z: 0.820059955
     }
   }
-  ParentId: 18359203024976580014
+  ParentId: 8963628845716230841
   UnregisteredParameters {
     Overrides {
       Name: "bp:Shape Index"
@@ -578,9 +638,15 @@ Objects {
     DecalBP {
     }
   }
+  InstanceHistory {
+    SelfId: 15013194600320547972
+    SubobjectId: 17241021283042888219
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
+  }
 }
 Objects {
-  Id: 15231675348620571401
+  Id: 8805163632419302865
   Name: "Decal Elven Symbols"
   Transform {
     Location {
@@ -596,7 +662,7 @@ Objects {
       Z: 0.820059955
     }
   }
-  ParentId: 18359203024976580014
+  ParentId: 8963628845716230841
   UnregisteredParameters {
     Overrides {
       Name: "bp:Shape Index"
@@ -630,9 +696,15 @@ Objects {
     DecalBP {
     }
   }
+  InstanceHistory {
+    SelfId: 8805163632419302865
+    SubobjectId: 4985419763856038734
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
+  }
 }
 Objects {
-  Id: 13817326463150697289
+  Id: 9383053554020779860
   Name: "Decal Elven Symbols"
   Transform {
     Location {
@@ -648,7 +720,7 @@ Objects {
       Z: 0.856566429
     }
   }
-  ParentId: 18359203024976580014
+  ParentId: 8963628845716230841
   UnregisteredParameters {
     Overrides {
       Name: "bp:Shape Index"
@@ -681,5 +753,11 @@ Objects {
     }
     DecalBP {
     }
+  }
+  InstanceHistory {
+    SelfId: 9383053554020779860
+    SubobjectId: 13630900800270348747
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
   }
 }

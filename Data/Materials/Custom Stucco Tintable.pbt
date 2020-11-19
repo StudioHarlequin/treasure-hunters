@@ -2,7 +2,7 @@
   Id: 201431319624486103
   Name: "MAT_Stucco01"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 4247430867898109902
     ParameterOverrides {

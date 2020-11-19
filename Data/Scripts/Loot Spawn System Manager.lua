@@ -56,6 +56,7 @@ function Tick(deltaTime)
             if point:GetCustomProperty("SpawnCooldown") <= 0 then
                 local randomIndex = math.random(1, #allLoot)
                 local loot = World.SpawnAsset(allLoot[randomIndex], {position = point:GetWorldPosition()})
+                print(loot.name)
                 loot.parent = ALL_LOOT_SPAWNED
                 totalSpawned = totalSpawned + 1
                 print(totalSpawned)

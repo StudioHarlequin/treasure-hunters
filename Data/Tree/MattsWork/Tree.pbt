@@ -27,32 +27,6 @@ Objects {
   }
 }
 Objects {
-  Id: 6035072853632635513
-  Name: "Water"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 12979386125601194111
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Water"
-  }
-}
-Objects {
   Id: 6505863160913619775
   Name: "Room5Geometry"
   Transform {

@@ -2,7 +2,7 @@
   Id: 290039441046999044
   Name: "MAT_StairBase"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 8355378315379225114
     ParameterOverrides {

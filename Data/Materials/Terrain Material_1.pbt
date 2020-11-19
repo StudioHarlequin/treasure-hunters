@@ -2,7 +2,7 @@
   Id: 3483819935661718641
   Name: "Terrain Material_1"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 11539592729587186415
     ParameterOverrides {
@@ -57,6 +57,10 @@
       Overrides {
         Name: "material1_scale"
         Float: 1
+      }
+      Overrides {
+        Name: "material4_genmask"
+        Float: 10
       }
     }
     Assets {

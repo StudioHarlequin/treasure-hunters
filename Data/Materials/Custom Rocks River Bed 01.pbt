@@ -2,7 +2,7 @@
   Id: 12259940828457493705
   Name: "MAT_StackedStoneBase01"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 10837982211202696360
     ParameterOverrides {

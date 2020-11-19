@@ -2,7 +2,7 @@
   Id: 13696539882626955954
   Name: "DesertRockTriplanar Blend"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 172173763757739114
     ParameterOverrides {

@@ -2,7 +2,7 @@
   Id: 1784841854873949673
   Name: "MAT_HayBits01"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 3728755330523372
     ParameterOverrides {

@@ -2,7 +2,7 @@
   Id: 17259891232901989864
   Name: "CathWinIron01"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 5961184720642333683
     ParameterOverrides {

@@ -1,28 +1,10 @@
 ﻿Assets {
-  Id: 16327934883181731081
-  Name: "Icon Food"
-  PlatformAssetType: 9
-  PrimaryAsset {
-    AssetType: "PlatformBrushAssetRef"
-    AssetId: "Icon_Food"
-  }
-}
-Assets {
   Id: 16241833908851998054
   Name: "BG Flat 001"
   PlatformAssetType: 9
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
     AssetId: "BackgroundNoOutline_020"
-  }
-}
-Assets {
-  Id: 14389042040364033147
-  Name: "Sword"
-  PlatformAssetType: 9
-  PrimaryAsset {
-    AssetType: "PlatformBrushAssetRef"
-    AssetId: "UI_Fantasy_icon_Sword"
   }
 }
 Assets {
@@ -50,15 +32,6 @@ Assets {
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
     AssetId: "BackgroundNoOutline_015"
-  }
-}
-Assets {
-  Id: 5547947379889405266
-  Name: "Fantasy Corners 001"
-  PlatformAssetType: 9
-  PrimaryAsset {
-    AssetType: "PlatformBrushAssetRef"
-    AssetId: "UI_Fantasy_Corners_001"
   }
 }
 Assets {

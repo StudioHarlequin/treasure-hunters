@@ -2,7 +2,7 @@
   Id: 8629253464229447068
   Name: "MAT_Gems01"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 13027984050553267852
     ParameterOverrides {
@@ -21,10 +21,6 @@
       Overrides {
         Name: "center darkening"
         Float: 2
-      }
-      Overrides {
-        Name: "emissive"
-        Float: 0.05
       }
       Overrides {
         Name: "refraction gradient"
@@ -67,6 +63,10 @@
       Overrides {
         Name: "gradientfalloff"
         Float: 3
+      }
+      Overrides {
+        Name: "emissive"
+        Float: 0.05
       }
     }
     Assets {

@@ -5920,6 +5920,6 @@
   Marketplace {
     Description: "An example case with simple script that attaches gear to an animated mesh."
   }
-  SerializationVersion: 62
+  SerializationVersion: 65
   DirectlyPublished: true
 }

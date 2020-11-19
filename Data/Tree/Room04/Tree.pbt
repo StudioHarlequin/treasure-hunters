@@ -1604,54 +1604,6 @@ Objects {
   }
 }
 Objects {
-  Id: 14801011716997513612
-  Name: "Cube - Bottom-Aligned"
-  Transform {
-    Location {
-      X: 801.730957
-      Y: 201.579102
-      Z: 430
-    }
-    Rotation {
-      Yaw: 90.0000763
-    }
-    Scale {
-      X: 12.7999983
-      Y: 0.8
-      Z: 4
-    }
-  }
-  ParentId: 15630315585973603011
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 5696278009787340217
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 198353679974341757
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
   Id: 9303403146146111293
   Name: "Pipe - Quarter Thick"
   Transform {
@@ -2905,14 +2857,14 @@ Objects {
   Transform {
     Location {
       X: 801.730957
-      Y: 1001.5791
+      Y: 1641.61694
       Z: 30
     }
     Rotation {
       Yaw: 90.0000763
     }
     Scale {
-      X: 28.8000011
+      X: 16
       Y: 0.8
       Z: 4
     }

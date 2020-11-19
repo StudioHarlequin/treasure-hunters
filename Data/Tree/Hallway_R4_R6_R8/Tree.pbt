@@ -49,54 +49,6 @@ Objects {
   }
 }
 Objects {
-  Id: 11562908456457550797
-  Name: "Floor_Cube - Bottom-Aligned"
-  Transform {
-    Location {
-      X: 2811.73096
-      Y: -18.4208984
-      Z: 830
-    }
-    Rotation {
-      Yaw: -135.000046
-    }
-    Scale {
-      X: 1.80000007
-      Y: 0.5
-      Z: 0.8
-    }
-  }
-  ParentId: 3265875176870985067
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 6434374959126606213
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 198353679974341757
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
   Id: 7336775674132104942
   Name: "Floor_Cube - Bottom-Aligned"
   Transform {
@@ -119,7 +71,7 @@ Objects {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 6434374959126606213
+        Id: 13576367259465906358
       }
     }
   }
@@ -521,6 +473,7 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableReceiveDecals: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
@@ -1494,8 +1447,8 @@ Objects {
   Transform {
     Location {
       X: 2761.73096
-      Y: 111.579102
-      Z: 429.999878
+      Y: 107.211914
+      Z: 430
     }
     Rotation {
       Yaw: -89.9998779
@@ -2093,8 +2046,8 @@ Objects {
   Transform {
     Location {
       X: 2761.73096
-      Y: 111.579102
-      Z: 29.9998779
+      Y: 107.211914
+      Z: 30
     }
     Rotation {
       Yaw: -89.9998779
@@ -2656,6 +2609,7 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableReceiveDecals: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
@@ -3232,6 +3186,7 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableReceiveDecals: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {

@@ -1,7 +1,7 @@
 ﻿Name: "GoldRings_2"
-RootId: 14492663684830860739
+RootId: 11500776650387292351
 Objects {
-  Id: 3608986245496151315
+  Id: 13446288755247595645
   Name: "Ring - Beveled Thin"
   Transform {
     Location {
@@ -16,7 +16,7 @@ Objects {
       Z: 3.5939877
     }
   }
-  ParentId: 14492663684830860739
+  ParentId: 11500776650387292351
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -45,9 +45,15 @@ Objects {
       }
     }
   }
+  InstanceHistory {
+    SelfId: 13446288755247595645
+    SubobjectId: 9621708680484320994
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
+  }
 }
 Objects {
-  Id: 2094750528292094501
+  Id: 6360012329820535353
   Name: "Ring - Beveled Thin"
   Transform {
     Location {
@@ -63,7 +69,7 @@ Objects {
       Z: 2.40181684
     }
   }
-  ParentId: 14492663684830860739
+  ParentId: 11500776650387292351
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -92,9 +98,15 @@ Objects {
       }
     }
   }
+  InstanceHistory {
+    SelfId: 6360012329820535353
+    SubobjectId: 7448585399583968422
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
+  }
 }
 Objects {
-  Id: 17908776391541242202
+  Id: 568915170294646324
   Name: "Ring - Beveled Thin"
   Transform {
     Location {
@@ -111,7 +123,7 @@ Objects {
       Z: 2.40181684
     }
   }
-  ParentId: 14492663684830860739
+  ParentId: 11500776650387292351
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -140,9 +152,15 @@ Objects {
       }
     }
   }
+  InstanceHistory {
+    SelfId: 568915170294646324
+    SubobjectId: 4105255523055431851
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
+  }
 }
 Objects {
-  Id: 11456326628309503723
+  Id: 115020130244744882
   Name: "Ring - Beveled Thin"
   Transform {
     Location {
@@ -159,7 +177,7 @@ Objects {
       Z: 2.40181684
     }
   }
-  ParentId: 14492663684830860739
+  ParentId: 11500776650387292351
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -188,9 +206,15 @@ Objects {
       }
     }
   }
+  InstanceHistory {
+    SelfId: 115020130244744882
+    SubobjectId: 4505111741307445293
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
+  }
 }
 Objects {
-  Id: 5903397452915666669
+  Id: 139664542440557123
   Name: "Ring - Beveled Thin"
   Transform {
     Location {
@@ -206,7 +230,7 @@ Objects {
       Z: 2.02979016
     }
   }
-  ParentId: 14492663684830860739
+  ParentId: 11500776650387292351
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -235,9 +259,15 @@ Objects {
       }
     }
   }
+  InstanceHistory {
+    SelfId: 139664542440557123
+    SubobjectId: 4534506185401875676
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
+  }
 }
 Objects {
-  Id: 1761195471103480858
+  Id: 14039599176545498620
   Name: "Ring - Beveled Thin"
   Transform {
     Location {
@@ -253,7 +283,7 @@ Objects {
       Z: 2.40181684
     }
   }
-  ParentId: 14492663684830860739
+  ParentId: 11500776650387292351
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -281,5 +311,11 @@ Objects {
       Physics {
       }
     }
+  }
+  InstanceHistory {
+    SelfId: 14039599176545498620
+    SubobjectId: 18287799086886142819
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
   }
 }

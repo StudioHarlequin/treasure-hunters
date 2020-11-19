@@ -2,7 +2,7 @@
   Id: 2235994134575530166
   Name: "MAT_CathBricks01"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 14844672563279110931
     ParameterOverrides {

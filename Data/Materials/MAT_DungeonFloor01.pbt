@@ -2,7 +2,7 @@
   Id: 6434374959126606213
   Name: "MAT_DungeonFloor01"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 8599522078531384068
     ParameterOverrides {

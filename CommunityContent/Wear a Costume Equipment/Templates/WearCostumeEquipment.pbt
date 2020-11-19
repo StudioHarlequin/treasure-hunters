@@ -10028,6 +10028,6 @@
   Marketplace {
     Description: "A piece of equipment you can drop into a Static Player Equipment component to have all of your players weare a costume when they join\r\n\r\n** STARRING @Dracowolfie\'s Toxic Mushroom Suit **\r\n\r\nIsPlayerVisible option on the script to set whether you hide the player avatar or not."
   }
-  SerializationVersion: 62
+  SerializationVersion: 65
   DirectlyPublished: true
 }

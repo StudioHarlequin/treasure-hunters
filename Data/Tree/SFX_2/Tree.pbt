@@ -1,7 +1,7 @@
 ﻿Name: "SFX_2"
-RootId: 16882213273222220912
+RootId: 9685492144315684405
 Objects {
-  Id: 4509377594784692229
+  Id: 4875835364060756625
   Name: "Callout Sparkle"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 3.76493311
     }
   }
-  ParentId: 16882213273222220912
+  ParentId: 9685492144315684405
   UnregisteredParameters {
     Overrides {
       Name: "bp:Volume Type"
@@ -67,9 +67,15 @@ Objects {
       AutoPlay: true
     }
   }
+  InstanceHistory {
+    SelfId: 4875835364060756625
+    SubobjectId: 8986808943295810574
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
+  }
 }
 Objects {
-  Id: 10337692552654984814
+  Id: 11651713686080582687
   Name: "Callout Sparkle"
   Transform {
     Location {
@@ -82,7 +88,7 @@ Objects {
       Z: 6.98431873
     }
   }
-  ParentId: 16882213273222220912
+  ParentId: 9685492144315684405
   UnregisteredParameters {
     Overrides {
       Name: "bp:Volume Type"
@@ -130,5 +136,11 @@ Objects {
     Vfx {
       AutoPlay: true
     }
+  }
+  InstanceHistory {
+    SelfId: 11651713686080582687
+    SubobjectId: 11434303749320884864
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
   }
 }

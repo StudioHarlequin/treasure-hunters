@@ -1,4 +1,13 @@
 ﻿Assets {
+  Id: 18244274405329183209
+  Name: "Rock 03"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_rock_generic_003"
+  }
+}
+Assets {
   Id: 18200200076012147990
   Name: "Fantasy Castle Pillar 02 - Top"
   PlatformAssetType: 1
@@ -8,12 +17,48 @@
   }
 }
 Assets {
-  Id: 16822568136084734308
-  Name: "Wall End Fancy 2m"
+  Id: 18024040266898552292
+  Name: "Ring - Quarter Thick"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_wall_end_fancy_2m_001"
+    AssetId: "sm_quarter_torus_003"
+  }
+}
+Assets {
+  Id: 16964117855639857004
+  Name: "Decal Spray Manticore 01"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_spray_manticore_001"
+  }
+}
+Assets {
+  Id: 16910278292812118833
+  Name: "Sun Light"
+  PlatformAssetType: 6
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "CORESKY_SunLight"
+  }
+}
+Assets {
+  Id: 16749233874952167397
+  Name: "Bush 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bush_generic_001"
+  }
+}
+Assets {
+  Id: 16636558598757392295
+  Name: "Gem - Round Polished"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_gem_round_polished_001"
   }
 }
 Assets {
@@ -35,30 +80,39 @@ Assets {
   }
 }
 Assets {
-  Id: 14452616722762075696
-  Name: "Fantasy Castle Pillar 01 Base"
+  Id: 13897890690272530035
+  Name: "Fog Adjustment Volume"
+  PlatformAssetType: 20
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "fxbp_fog_adjustment"
+  }
+}
+Assets {
+  Id: 13869803767315575325
+  Name: "Human Guy 2"
+  PlatformAssetType: 17
+  PrimaryAsset {
+    AssetType: "AnimatedMeshAssetRef"
+    AssetId: "npc_human_guy_basic_002_ref"
+  }
+}
+Assets {
+  Id: 13839708832080882413
+  Name: "Decal Painted Lines 01"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_lines_001"
+  }
+}
+Assets {
+  Id: 13410490565345583042
+  Name: "Gem - Diamond 6-Sided Polished"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_fan_cas_pillar_001_base"
-  }
-}
-Assets {
-  Id: 14330897391340087518
-  Name: "Ember Volume VFX"
-  PlatformAssetType: 8
-  PrimaryAsset {
-    AssetType: "VfxBlueprintAssetRef"
-    AssetId: "fxbp_ember_volume_vfx"
-  }
-}
-Assets {
-  Id: 13576367259465906358
-  Name: "Stone Basic"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "stone_001"
+    AssetId: "sm_diamond_6_sided_polished_001"
   }
 }
 Assets {
@@ -71,12 +125,12 @@ Assets {
   }
 }
 Assets {
-  Id: 13304908840312358092
-  Name: "Fantasy Castle Pillar 01 Top"
-  PlatformAssetType: 1
+  Id: 12344193518355455075
+  Name: "Star Dome"
+  PlatformAssetType: 6
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_fan_cas_pillar_001_top"
+    AssetType: "BlueprintAssetRef"
+    AssetId: "CORESKY_StarDome"
   }
 }
 Assets {
@@ -89,12 +143,30 @@ Assets {
   }
 }
 Assets {
-  Id: 11679638938136483441
-  Name: "Fantasy Castle Pillar Wall 01 Arch"
+  Id: 11716761322277259767
+  Name: "Tree Oak Stump 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_fan_cas_pillar_wall_001_arch_01"
+    AssetId: "sm_tree_oak_stump_001"
+  }
+}
+Assets {
+  Id: 11709243538299610393
+  Name: "Gem - Radiant Polished"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_gem_radiant_polished_001"
+  }
+}
+Assets {
+  Id: 11515840070784317904
+  Name: "Skylight"
+  PlatformAssetType: 6
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "CORESKY_Skylight"
   }
 }
 Assets {
@@ -107,12 +179,21 @@ Assets {
   }
 }
 Assets {
-  Id: 10451398594042551372
-  Name: "Long Banner Manticore"
+  Id: 10581530043728818282
+  Name: "Bush 02"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_banner_001"
+    AssetId: "sm_bush_generic_002"
+  }
+}
+Assets {
+  Id: 10565779720638562463
+  Name: "Gem - Baguette Polished"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_gem_baguette_polished_001"
   }
 }
 Assets {
@@ -125,12 +206,30 @@ Assets {
   }
 }
 Assets {
-  Id: 8530798116695442287
-  Name: "Cauldron"
+  Id: 9686022029476961003
+  Name: "Rock 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_fantasy_cauldron_001"
+    AssetId: "sm_rock_generic_001"
+  }
+}
+Assets {
+  Id: 9135206421299978471
+  Name: "Grass Tall"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_grass_generic_001"
+  }
+}
+Assets {
+  Id: 8757068560497122517
+  Name: "Plane 4m"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_plane_4m_001"
   }
 }
 Assets {
@@ -143,6 +242,24 @@ Assets {
   }
 }
 Assets {
+  Id: 7887238662729938253
+  Name: "Sky Dome"
+  PlatformAssetType: 6
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "CORESKY_Sky"
+  }
+}
+Assets {
+  Id: 7866248689353273876
+  Name: "Branches Cluster Big"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_gen_branches_big_001"
+  }
+}
+Assets {
   Id: 7812806290641082998
   Name: "Fairy Dot Volume VFX"
   PlatformAssetType: 8
@@ -152,39 +269,30 @@ Assets {
   }
 }
 Assets {
-  Id: 7784855902851054166
-  Name: "Pipe - Thick"
+  Id: 6095806434602226168
+  Name: "Decal Stains Top 01"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_stain_top_001"
+  }
+}
+Assets {
+  Id: 4607652412797889891
+  Name: "Decal Stains Bottom 01"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_stain_bottom_001"
+  }
+}
+Assets {
+  Id: 4362317682689962794
+  Name: "Grass Short"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_pipe_004"
-  }
-}
-Assets {
-  Id: 5696278009787340217
-  Name: "Bricks Chunky Stone 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_brick_stone_chunky_001"
-  }
-}
-Assets {
-  Id: 5031217425988854749
-  Name: "Fantasy Human Guy 2"
-  PlatformAssetType: 17
-  PrimaryAsset {
-    AssetType: "AnimatedMeshAssetRef"
-    AssetId: "npc_human_guy_fantasy_003_ref"
-  }
-}
-Assets {
-  Id: 4305627177137124836
-  Name: "Additive Soft Edge"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "fxma_additive_edgefade"
+    AssetId: "sm_grass_generic_002"
   }
 }
 Assets {
@@ -197,21 +305,12 @@ Assets {
   }
 }
 Assets {
-  Id: 4050437425243511619
-  Name: "Wood Raw"
-  PlatformAssetType: 2
+  Id: 2224571462023946700
+  Name: "Environment Fog Default VFX"
+  PlatformAssetType: 6
   PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_wood_raw_001_uv"
-  }
-}
-Assets {
-  Id: 2494920176024075778
-  Name: "Fire Volume VFX"
-  PlatformAssetType: 8
-  PrimaryAsset {
-    AssetType: "VfxBlueprintAssetRef"
-    AssetId: "fxbp_fire_volume_vfx"
+    AssetType: "BlueprintAssetRef"
+    AssetId: "fxbp_env_fog_default"
   }
 }
 Assets {

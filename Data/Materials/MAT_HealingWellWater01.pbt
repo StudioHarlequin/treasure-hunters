@@ -2,7 +2,7 @@
   Id: 13254559071680704830
   Name: "MAT_HealingWellWater01"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 15700512070718725661
     ParameterOverrides {

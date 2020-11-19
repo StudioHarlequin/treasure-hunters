@@ -2,7 +2,7 @@
   Id: 14756400139239293537
   Name: "Custom Foundation - Gradient"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 17971057208945527264
     ParameterOverrides {

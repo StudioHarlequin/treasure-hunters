@@ -2,7 +2,7 @@
   Id: 4830048959353750835
   Name: "MAT_DungeonBrick01_TriplanarBlend"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 172173763757739114
     ParameterOverrides {

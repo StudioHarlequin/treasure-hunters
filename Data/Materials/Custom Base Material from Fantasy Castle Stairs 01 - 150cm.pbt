@@ -2,7 +2,7 @@
   Id: 10700893315686655554
   Name: "Custom Base Material from Fantasy Castle Stairs 01 - 150cm"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 3912121730930208275
     ParameterOverrides {

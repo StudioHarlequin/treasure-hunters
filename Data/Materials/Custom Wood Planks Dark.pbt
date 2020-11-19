@@ -2,7 +2,7 @@
   Id: 10008042814397955931
   Name: "MAT_BankCounterWood01"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 1140959618425374666
     ParameterOverrides {

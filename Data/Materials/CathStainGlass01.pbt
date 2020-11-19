@@ -2,7 +2,7 @@
   Id: 18428230562932340956
   Name: "CathStainGlass01"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 11416230699890191023
     ParameterOverrides {

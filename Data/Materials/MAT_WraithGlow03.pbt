@@ -2,7 +2,7 @@
   Id: 15914915462251736340
   Name: "MAT_WraithGlow03"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 8730727244455643238
     ParameterOverrides {

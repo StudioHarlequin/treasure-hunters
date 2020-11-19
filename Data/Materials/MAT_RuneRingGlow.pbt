@@ -2,7 +2,7 @@
   Id: 16641917689297026793
   Name: "MAT_RuneRingGlow01"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 3702191406046426907
     ParameterOverrides {

@@ -2,7 +2,7 @@
   Id: 10692755925656340399
   Name: "Forest01_TriplanerBlend01"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 172173763757739114
     ParameterOverrides {

@@ -1,6 +1,2143 @@
 ﻿Name: "ForestPath"
 RootId: 11368275917209628895
 Objects {
+  Id: 18369747365280326220
+  Name: "StoneBaseTorch"
+  Transform {
+    Location {
+      X: -13371.2275
+      Y: -719.886963
+      Z: 1510.92554
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  ChildIds: 11148569715250306001
+  ChildIds: 2252410757103281729
+  ChildIds: 6071507435752886478
+  ChildIds: 13898264684935943749
+  ChildIds: 468754031714524591
+  ChildIds: 3166648733618483574
+  ChildIds: 6105517229245184905
+  ChildIds: 10277827201139913730
+  ChildIds: 13522174722592220811
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 13522174722592220811
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2996.3291
+      Y: 1172.85132
+      Z: 216.60408
+    }
+    Rotation {
+      Pitch: -2.83209
+      Yaw: 3.20556609e-07
+      Roll: -27.424242
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 18369747365280326220
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -15.4702148
+            Y: 15.6864014
+            Z: 177.445374
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -0.839080811
+            Yaw: 73.3114548
+            Roll: -20.733551
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 10277827201139913730
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2999.43774
+      Y: 1124.08765
+      Z: 220.528915
+    }
+    Rotation {
+      Pitch: -3.53686309
+      Yaw: -1.23400879
+      Roll: 26.8197041
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 18369747365280326220
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -16.2675781
+            Y: -12.8380127
+            Z: 177.290283
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -9.85882568
+            Yaw: -0.608703613
+            Roll: 16.8780155
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 6105517229245184905
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2989.07471
+      Y: 1164.53735
+      Z: 214.971146
+    }
+    Rotation {
+      Roll: -11.1121378
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 18369747365280326220
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 27.9055176
+            Y: 3.35290527
+            Z: 175.812424
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -1.65097046
+            Yaw: -94.7689209
+            Roll: -30.1662598
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 3166648733618483574
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2975.51489
+      Y: 1161.76501
+      Z: 214.971146
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -80.397171
+      Roll: -11.1168985
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 18369747365280326220
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 18.953125
+            Y: -14.2415771
+            Z: 175.812424
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -10.4275513
+            Yaw: -174.027603
+            Roll: -19.125885
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 468754031714524591
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2985.3064
+      Y: 1137.81323
+      Z: 214.971146
+    }
+    Rotation {
+      Pitch: 0.859647572
+      Yaw: -1.3016969
+      Roll: 22.3173237
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 18369747365280326220
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -27.3654785
+            Y: 2.33105469
+            Z: 183.460983
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 2.31530428
+            Yaw: -95.9736328
+            Roll: 35.7451
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 13898264684935943749
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2975.51489
+      Y: 1161.76501
+      Z: 214.971146
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -80.397171
+      Roll: -11.1168985
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 18369747365280326220
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -5.27807617
+            Y: -22.4975586
+            Z: 181.370209
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -3.53686523
+            Yaw: -1.23400879
+            Roll: 26.819685
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 6071507435752886478
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2969.89722
+      Y: 1167.44836
+      Z: 214.971146
+    }
+    Rotation {
+      Roll: -11.1121378
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 18369747365280326220
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 18.1062012
+            Y: 20.1442871
+            Z: 175.812454
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -12.4982605
+            Yaw: -80.1599121
+            Roll: -13.2679138
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 2252410757103281729
+  Name: "WoodTwig"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18369747365280326220
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2.16943359
+            Y: 26.2661133
+            Z: 177.445374
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -2.83209229
+            Yaw: 3.73982715e-07
+            Roll: -27.4242554
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 11148569715250306001
+  Name: "StoneBaseTorch w/o Twigs"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18369747365280326220
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9014838453829970760
+      value {
+        Overrides {
+          Name: "Name"
+          String: "StoneBaseTorch w/o Twigs"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 1.27514648
+            Y: -0.546691895
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 15234774192058096979
+    }
+  }
+}
+Objects {
+  Id: 13473591167658528864
+  Name: "StoneBaseTorch"
+  Transform {
+    Location {
+      X: -12927.7832
+      Y: 50.2271729
+      Z: 1510.92554
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  ChildIds: 16175565314921209365
+  ChildIds: 7692976784176774502
+  ChildIds: 4360534306616188026
+  ChildIds: 15565527427272902212
+  ChildIds: 12477252093383599619
+  ChildIds: 13164215510573140619
+  ChildIds: 11738857493593025654
+  ChildIds: 9528429429250008824
+  ChildIds: 14078140039008354262
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 14078140039008354262
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2996.3291
+      Y: 1172.85132
+      Z: 216.60408
+    }
+    Rotation {
+      Pitch: -2.83209
+      Yaw: 3.20556609e-07
+      Roll: -27.424242
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 13473591167658528864
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -15.4702148
+            Y: 15.6864014
+            Z: 177.445374
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -0.839080811
+            Yaw: 73.3114548
+            Roll: -20.733551
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 9528429429250008824
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2999.43774
+      Y: 1124.08765
+      Z: 220.528915
+    }
+    Rotation {
+      Pitch: -3.53686309
+      Yaw: -1.23400879
+      Roll: 26.8197041
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 13473591167658528864
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -16.2675781
+            Y: -12.8380127
+            Z: 177.290283
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -9.85882568
+            Yaw: -0.608703613
+            Roll: 16.8780155
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 11738857493593025654
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2989.07471
+      Y: 1164.53735
+      Z: 214.971146
+    }
+    Rotation {
+      Roll: -11.1121378
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 13473591167658528864
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 27.9055176
+            Y: 3.35290527
+            Z: 175.812424
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -1.65097046
+            Yaw: -94.7689209
+            Roll: -30.1662598
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 13164215510573140619
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2975.51489
+      Y: 1161.76501
+      Z: 214.971146
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -80.397171
+      Roll: -11.1168985
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 13473591167658528864
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 18.953125
+            Y: -14.2415771
+            Z: 175.812424
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -10.4275513
+            Yaw: -174.027603
+            Roll: -19.125885
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 12477252093383599619
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2985.3064
+      Y: 1137.81323
+      Z: 214.971146
+    }
+    Rotation {
+      Pitch: 0.859647572
+      Yaw: -1.3016969
+      Roll: 22.3173237
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 13473591167658528864
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -27.3654785
+            Y: 2.33105469
+            Z: 183.460983
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 2.31530428
+            Yaw: -95.9736328
+            Roll: 35.7451
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 15565527427272902212
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2975.51489
+      Y: 1161.76501
+      Z: 214.971146
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -80.397171
+      Roll: -11.1168985
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 13473591167658528864
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -5.27807617
+            Y: -22.4975586
+            Z: 181.370209
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -3.53686523
+            Yaw: -1.23400879
+            Roll: 26.819685
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 4360534306616188026
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2969.89722
+      Y: 1167.44836
+      Z: 214.971146
+    }
+    Rotation {
+      Roll: -11.1121378
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 13473591167658528864
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 18.1062012
+            Y: 20.1442871
+            Z: 175.812454
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -12.4982605
+            Yaw: -80.1599121
+            Roll: -13.2679138
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 7692976784176774502
+  Name: "WoodTwig"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13473591167658528864
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2.16943359
+            Y: 26.2661133
+            Z: 177.445374
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -2.83209229
+            Yaw: 3.73982715e-07
+            Roll: -27.4242554
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 16175565314921209365
+  Name: "StoneBaseTorch w/o Twigs"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13473591167658528864
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9014838453829970760
+      value {
+        Overrides {
+          Name: "Name"
+          String: "StoneBaseTorch w/o Twigs"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 1.27514648
+            Y: -0.546691895
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 15234774192058096979
+    }
+  }
+}
+Objects {
+  Id: 15973705331301015614
+  Name: "StoneBaseTorch"
+  Transform {
+    Location {
+      X: -10665
+      Y: 14.1953125
+      Z: 1510.92554
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  ChildIds: 10759469633609969591
+  ChildIds: 8850153819080711454
+  ChildIds: 7985327745163050504
+  ChildIds: 4710987430400241474
+  ChildIds: 17168124215435294325
+  ChildIds: 8947217193103516911
+  ChildIds: 1190209878311430896
+  ChildIds: 17569517045174117196
+  ChildIds: 5819186470988622113
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 5819186470988622113
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2996.3291
+      Y: 1172.85132
+      Z: 216.60408
+    }
+    Rotation {
+      Pitch: -2.83209
+      Yaw: 3.20556609e-07
+      Roll: -27.424242
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 15973705331301015614
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -15.4702148
+            Y: 15.6864014
+            Z: 177.445374
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -0.839080811
+            Yaw: 73.3114548
+            Roll: -20.733551
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 17569517045174117196
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2999.43774
+      Y: 1124.08765
+      Z: 220.528915
+    }
+    Rotation {
+      Pitch: -3.53686309
+      Yaw: -1.23400879
+      Roll: 26.8197041
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 15973705331301015614
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -16.2675781
+            Y: -12.8380127
+            Z: 177.290283
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -9.85882568
+            Yaw: -0.608703613
+            Roll: 16.8780155
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 1190209878311430896
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2989.07471
+      Y: 1164.53735
+      Z: 214.971146
+    }
+    Rotation {
+      Roll: -11.1121378
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 15973705331301015614
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 27.9055176
+            Y: 3.35290527
+            Z: 175.812424
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -1.65097046
+            Yaw: -94.7689209
+            Roll: -30.1662598
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 8947217193103516911
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2975.51489
+      Y: 1161.76501
+      Z: 214.971146
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -80.397171
+      Roll: -11.1168985
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 15973705331301015614
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 18.953125
+            Y: -14.2415771
+            Z: 175.812424
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -10.4275513
+            Yaw: -174.027603
+            Roll: -19.125885
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 17168124215435294325
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2985.3064
+      Y: 1137.81323
+      Z: 214.971146
+    }
+    Rotation {
+      Pitch: 0.859647572
+      Yaw: -1.3016969
+      Roll: 22.3173237
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 15973705331301015614
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -27.3654785
+            Y: 2.33105469
+            Z: 183.460983
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 2.31530428
+            Yaw: -95.9736328
+            Roll: 35.7451
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 4710987430400241474
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2975.51489
+      Y: 1161.76501
+      Z: 214.971146
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -80.397171
+      Roll: -11.1168985
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 15973705331301015614
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -5.27807617
+            Y: -22.4975586
+            Z: 181.370209
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -3.53686523
+            Yaw: -1.23400879
+            Roll: 26.819685
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 7985327745163050504
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2969.89722
+      Y: 1167.44836
+      Z: 214.971146
+    }
+    Rotation {
+      Roll: -11.1121378
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 15973705331301015614
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 18.1062012
+            Y: 20.1442871
+            Z: 175.812454
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -12.4982605
+            Yaw: -80.1599121
+            Roll: -13.2679138
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 8850153819080711454
+  Name: "WoodTwig"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15973705331301015614
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2.16943359
+            Y: 26.2661133
+            Z: 177.445374
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -2.83209229
+            Yaw: 3.73982715e-07
+            Roll: -27.4242554
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 10759469633609969591
+  Name: "StoneBaseTorch w/o Twigs"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15973705331301015614
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9014838453829970760
+      value {
+        Overrides {
+          Name: "Name"
+          String: "StoneBaseTorch w/o Twigs"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 1.27514648
+            Y: -0.546691895
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9142670130776011502
+      value {
+        Overrides {
+          Name: "CastShadows"
+          Bool: true
+        }
+        Overrides {
+          Name: "CastVolumetricShadows"
+          Bool: false
+        }
+        Overrides {
+          Name: "Intensity"
+          Float: 25
+        }
+        Overrides {
+          Name: "UseAttenuationRadius"
+          Bool: true
+        }
+        Overrides {
+          Name: "AttenuationRadius"
+          Float: 600
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 15234774192058096979
+    }
+  }
+}
+Objects {
+  Id: 4708605430435881786
+  Name: "StoneBaseTorch"
+  Transform {
+    Location {
+      X: -9615.46484
+      Y: -682.430725
+      Z: 1510.92554
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11368275917209628895
+  ChildIds: 13458169139763489529
+  ChildIds: 1523144446585351964
+  ChildIds: 17348831115139004169
+  ChildIds: 9973321415989386317
+  ChildIds: 2961631094533133653
+  ChildIds: 3051464467631972578
+  ChildIds: 12481432052026516803
+  ChildIds: 4768208296406785691
+  ChildIds: 4692840289390053391
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 4692840289390053391
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2996.3291
+      Y: 1172.85132
+      Z: 216.60408
+    }
+    Rotation {
+      Pitch: -2.83209
+      Yaw: 3.20556609e-07
+      Roll: -27.424242
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 4708605430435881786
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -15.4702148
+            Y: 15.6864014
+            Z: 177.445374
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -0.839080811
+            Yaw: 73.3114548
+            Roll: -20.733551
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 4768208296406785691
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2999.43774
+      Y: 1124.08765
+      Z: 220.528915
+    }
+    Rotation {
+      Pitch: -3.53686309
+      Yaw: -1.23400879
+      Roll: 26.8197041
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 4708605430435881786
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -16.2675781
+            Y: -12.8380127
+            Z: 177.290283
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -9.85882568
+            Yaw: -0.608703613
+            Roll: 16.8780155
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 12481432052026516803
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2989.07471
+      Y: 1164.53735
+      Z: 214.971146
+    }
+    Rotation {
+      Roll: -11.1121378
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 4708605430435881786
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 27.9055176
+            Y: 3.35290527
+            Z: 175.812424
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -1.65097046
+            Yaw: -94.7689209
+            Roll: -30.1662598
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 3051464467631972578
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2975.51489
+      Y: 1161.76501
+      Z: 214.971146
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -80.397171
+      Roll: -11.1168985
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 4708605430435881786
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 18.953125
+            Y: -14.2415771
+            Z: 175.812424
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -10.4275513
+            Yaw: -174.027603
+            Roll: -19.125885
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 2961631094533133653
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2985.3064
+      Y: 1137.81323
+      Z: 214.971146
+    }
+    Rotation {
+      Pitch: 0.859647572
+      Yaw: -1.3016969
+      Roll: 22.3173237
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 4708605430435881786
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -27.3654785
+            Y: 2.33105469
+            Z: 183.460983
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 2.31530428
+            Yaw: -95.9736328
+            Roll: 35.7451
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 9973321415989386317
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2975.51489
+      Y: 1161.76501
+      Z: 214.971146
+    }
+    Rotation {
+      Pitch: 6.83018879e-06
+      Yaw: -80.397171
+      Roll: -11.1168985
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 4708605430435881786
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -5.27807617
+            Y: -22.4975586
+            Z: 181.370209
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -3.53686523
+            Yaw: -1.23400879
+            Roll: 26.819685
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 17348831115139004169
+  Name: "WoodTwig"
+  Transform {
+    Location {
+      X: -2969.89722
+      Y: 1167.44836
+      Z: 214.971146
+    }
+    Rotation {
+      Roll: -11.1121378
+    }
+    Scale {
+      X: 0.282523811
+      Y: 0.282523811
+      Z: 0.282523811
+    }
+  }
+  ParentId: 4708605430435881786
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 18.1062012
+            Y: 20.1442871
+            Z: 175.812454
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -12.4982605
+            Yaw: -80.1599121
+            Roll: -13.2679138
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.282523811
+            Y: 0.282523811
+            Z: 0.282523811
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 1523144446585351964
+  Name: "WoodTwig"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4708605430435881786
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17751904178516068754
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WoodTwig"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2.16943359
+            Y: 26.2661133
+            Z: 177.445374
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -2.83209229
+            Yaw: 3.73982715e-07
+            Roll: -27.4242554
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11220871700546768253
+    }
+  }
+}
+Objects {
+  Id: 13458169139763489529
+  Name: "StoneBaseTorch w/o Twigs"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4708605430435881786
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9014838453829970760
+      value {
+        Overrides {
+          Name: "Name"
+          String: "StoneBaseTorch w/o Twigs"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 1.27514648
+            Y: -0.546691895
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 15234774192058096979
+    }
+  }
+}
+Objects {
   Id: 5541749669023096365
   Name: "HealingWellArea"
   Transform {

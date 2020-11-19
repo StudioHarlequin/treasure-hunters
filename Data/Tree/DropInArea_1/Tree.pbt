@@ -7,10 +7,9 @@ Objects {
     Location {
       X: -416.349609
       Y: 1375.67529
-      Z: 20.1331787
+      Z: -0.378417969
     }
     Rotation {
-      Yaw: 8.19622437e-05
     }
     Scale {
       X: 1
@@ -586,6 +585,7 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableCastShadows: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {

@@ -2,7 +2,7 @@
   Id: 15153963755059509736
   Name: "MAT_GoldTreasure01"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 2343329785943659229
     ParameterOverrides {

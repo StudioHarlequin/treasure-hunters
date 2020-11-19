@@ -6,18 +6,18 @@
     Table {
       Entries {
         Key {
-          StringVar: "Level"
+          StringVar: "Bag"
         }
         SimpleValue {
-          IntVar: 1
+          IntVar: 500
         }
       }
       Entries {
         Key {
-          StringVar: "Bag"
+          StringVar: "XP"
         }
         SimpleValue {
-          IntVar: 0
+          IntVar: 3
         }
       }
       Entries {
@@ -30,18 +30,18 @@
       }
       Entries {
         Key {
-          StringVar: "Bank"
+          StringVar: "Level"
         }
         SimpleValue {
-          IntVar: 200
+          IntVar: 1
         }
       }
       Entries {
         Key {
-          StringVar: "Coins"
+          StringVar: "Bank"
         }
         SimpleValue {
-          IntVar: 330
+          IntVar: 16000
         }
       }
     }

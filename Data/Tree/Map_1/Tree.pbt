@@ -248,7 +248,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Shop"
+    FilePartitionName: "Shop_1"
   }
 }
 Objects {
@@ -462,6 +462,7 @@ Objects {
   }
   PlayerSpawnPoint {
     TeamInt: 1
+    PlayerScaleMultiplier: 1
   }
 }
 Objects {

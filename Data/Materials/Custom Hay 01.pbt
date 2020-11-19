@@ -2,7 +2,7 @@
   Id: 9573205082630689694
   Name: "MAT_ThatchRoof01"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 9247346704641397012
     ParameterOverrides {

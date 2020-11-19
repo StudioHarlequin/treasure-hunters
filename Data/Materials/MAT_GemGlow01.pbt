@@ -2,7 +2,7 @@
   Id: 8228342510312303529
   Name: "MAT_GemGlow01"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 4305627177137124836
     ParameterOverrides {

@@ -2,7 +2,7 @@
   Id: 4639152269496139936
   Name: "CathWinTrimBrick01"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 10586266010554174291
     ParameterOverrides {

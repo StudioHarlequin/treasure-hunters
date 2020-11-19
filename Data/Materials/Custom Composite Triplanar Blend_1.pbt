@@ -2,7 +2,7 @@
   Id: 9140898131561986618
   Name: "ForestBrokenStone01_TriplanarBlend"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 172173763757739114
     ParameterOverrides {

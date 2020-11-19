@@ -1,7 +1,7 @@
 ﻿Name: "Sounds_2"
-RootId: 3488841415293601502
+RootId: 9436292806591084387
 Objects {
-  Id: 5032611316366140835
+  Id: 10359752422855296702
   Name: "Classical Music Score Set 01"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 2.21576548
     }
   }
-  ParentId: 3488841415293601502
+  ParentId: 9436292806591084387
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -36,5 +36,11 @@ Objects {
       EnableOcclusion: true
       IsAttenuationEnabled: true
     }
+  }
+  InstanceHistory {
+    SelfId: 10359752422855296702
+    SubobjectId: 12743153399610732577
+    InstanceId: 9463108037110529392
+    TemplateId: 2074989149562259524
   }
 }

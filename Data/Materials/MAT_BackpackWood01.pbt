@@ -2,7 +2,7 @@
   Id: 886230649700769872
   Name: "MAT_BackpackWood01"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 3605030238014728915
     ParameterOverrides {

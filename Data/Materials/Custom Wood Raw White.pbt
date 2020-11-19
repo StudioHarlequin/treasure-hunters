@@ -2,7 +2,7 @@
   Id: 7884350188966026691
   Name: "MAT_WoodSupports01"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 643839612877898591
     ParameterOverrides {
@@ -29,9 +29,8 @@
       }
       Overrides {
         Name: "gradient_direction"
-        Color {
-          G: 1
-          A: 1
+        Vector {
+          Y: 1
         }
       }
       Overrides {

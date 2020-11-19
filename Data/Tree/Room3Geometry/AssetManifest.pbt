@@ -44,39 +44,12 @@ Assets {
   }
 }
 Assets {
-  Id: 14476679536478096151
-  Name: "Fantasy Castle Pillar 02 - Base"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_fan_cas_pillar_002_base"
-  }
-}
-Assets {
-  Id: 12896013133563689184
-  Name: "Stone Wall End 6m"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_stone-edge_6m_001"
-  }
-}
-Assets {
   Id: 12166830614209467696
   Name: "Rock Block 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_rock_generic_006"
-  }
-}
-Assets {
-  Id: 10914354925542967262
-  Name: "Fantasy Castle Pillar 02 - Mid"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_fan_cas_pillar_002_mid"
   }
 }
 Assets {

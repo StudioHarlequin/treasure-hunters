@@ -2,7 +2,7 @@
   Id: 778528529799168470
   Name: "MAT_CathStoneBlock01"
   PlatformAssetType: 13
-  SerializationVersion: 62
+  SerializationVersion: 65
   CustomMaterialAsset {
     BaseMaterialId: 13576367259465906358
     ParameterOverrides {

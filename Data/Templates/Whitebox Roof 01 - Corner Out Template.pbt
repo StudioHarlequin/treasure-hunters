@@ -210,5 +210,5 @@
       AssetId: "Whitebox_Roof_01_-_Corner_Out_Template"
     }
   }
-  SerializationVersion: 62
+  SerializationVersion: 65
 }
