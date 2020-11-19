@@ -1,0 +1,67 @@
+﻿MetaVersion: 1
+MarketplaceDetails {
+  Id: "992dcc9255874ff296430664afccdda8"
+  OwnerAccountId: "428ca6144778493b90d03c2b1940ce81"
+  OwnerName: "truedarkdev"
+  Version: "1.3.0"
+}
+AssetIdsOriginalToNew {
+  key: 1483515196087549025
+  value: 15420913397469522112
+}
+AssetIdsOriginalToNew {
+  key: 2710508296893689739
+  value: 8802214864524571174
+}
+AssetIdsOriginalToNew {
+  key: 3048597844310476000
+  value: 8058958333788795592
+}
+AssetIdsOriginalToNew {
+  key: 6087405505291398241
+  value: 7480099843337533073
+}
+AssetIdsOriginalToNew {
+  key: 6602413975154145419
+  value: 14606511726239303498
+}
+AssetIdsOriginalToNew {
+  key: 6876570160072565294
+  value: 4092260111789618247
+}
+AssetIdsOriginalToNew {
+  key: 7686948757193749664
+  value: 9354812599119339095
+}
+AssetIdsOriginalToNew {
+  key: 10155630241050190584
+  value: 13985409595613538216
+}
+AssetIdsOriginalToNew {
+  key: 11355345175728952409
+  value: 6191931356708178864
+}
+AssetIdsOriginalToNew {
+  key: 11550305853239776850
+  value: 10934489898524869268
+}
+AssetIdsOriginalToNew {
+  key: 12921217445089335679
+  value: 13067027739548017233
+}
+AssetIdsOriginalToNew {
+  key: 15041663041173182810
+  value: 15106611171855919487
+}
+AssetIdsOriginalToNew {
+  key: 15101316588207079722
+  value: 858667345073138705
+}
+AssetIdsOriginalToNew {
+  key: 17250687152426266644
+  value: 3850099250590604657
+}
+AssetIdsOriginalToNew {
+  key: 18022122995399677605
+  value: 2310986352286698392
+}
